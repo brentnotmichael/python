@@ -37,4 +37,6 @@ def draw_grid_hspace(intCols, intCellWidth, intCellHeight):
         print("|")
 
 # rows, cols, colwidth, colheight
-draw_grid(5,5,1,1)          
+draw_grid(2,5,3,2)
+
+
